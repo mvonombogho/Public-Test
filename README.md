@@ -1,1 +1,30 @@
-IyDwn5GL1YAg1YJlbGNvbWUgdG8gUHVibGljLVRlc3QhIPCfkYvwn5mE0KAKCiMjIPCfkanCoEFib3V0IFRoaXMgUHJvamVjdApUaGlzIHJlcG9zaXRvcnkgaXMgbW9yZSB0aGFuIGp1c3QgYSB0ZXN0IC0gaXQncyBhIGdhdGV3YXkgdG8gZW5kbGVzcyBwb3NzaWJpbGl0aWVzISBXaGV0aGVyIHlvdSdyZSBhIHNlYXNvbmVkIGRldmVsb3BlciBvciBqdXN0IHN0YXJ0aW5nIHlvdXIgY29kaW5nIGpvdXJuZXksIHlvdSd2ZSBmb3VuZCBhIGZyaWVuZGx5IHNwYWNlIHRvIGV4cGVyaW1lbnQsIGxlYXJuLCBhbmQgZ3Jvdy4KCiMjIyDinpggV2hhdCBNYWtlcyBUaGlzIFNwZWNpYWw/Ci0g8J+mpSBQZXJmZWN0IGZvciB0ZXN0aW5nIG5ldyBpZGVhcwotIPCfkqAgT3BlbiBmb3IgY29sbGFib3JhdGlvbgotIPCfkqEgR3JlYXQgc3RhcnRpbmcgcG9pbnQgZm9yIGJlZ2lubmVycwotIPCfk6cgU2FuZGJveCBmb3IgZXhwZXJpbWVudGluZwoKIyMg8J+Zhz5HZXQgU3RhcnRlZApTaW1wbHk6CjEuIENsb25lIHRoaXMgcmVwb3NpdG9yeQoyLiBNYWtlIGl0IHlvdXIgb3duCjMuIFN0YXJ0IGNyZWF0aW5nIQoKIyMg8J+MiSBDb250cmlidXRlCkZlZWwgZnJlZSB0bzoKLSBGb3JrIHRoaXMgcmVwb3NpdG9yeQotIENyZWF0ZSB5b3VyIGZlYXR1cmUgYnJhbmNoCi0gU3VibWl0IHB1bGwgcmVxdWVzdHMKLSBTaGFyZSB5b3VyIGlkZWFzIQoKIyMg8J+TsyBDb25uZWN0CkhhdmUgcXVlc3Rpb25zIG9yIGlkZWFzPyBPcGVuIGFuIGlzc3VlIG9yIHN0YXJ0IGEgZGlzY3Vzc2lvbiEKCi0tLQoqIkV2ZXJ5IGV4cGVydCB3YXMgb25jZSBhIGJlZ2lubmVyLiBTdGFydCB5b3VyIGpvdXJuZXkgdG9kYXkhIiog8J+MoAoK4piFIERvbid0IGZvcmdldCB0byBzdGFyIHRoaXMgcmVwbyBpZiB5b3UgZmluZCBpdCBoZWxwZnVsIQ==
+# 🌟 Welcome to Public-Test! 🌟
+
+## 🚀 About This Project
+This repository is more than just a test - it's a gateway to endless possibilities! Whether you're a seasoned developer or just starting your coding journey, you've found a friendly space to experiment, learn, and grow.
+
+### ✨ What Makes This Special?
+- 🎯 Perfect for testing new ideas
+- 🤝 Open for collaboration
+- 🌱 Great starting point for beginners
+- 🔧 Sandbox for experimenting
+
+## 🎮 Getting Started
+1. Clone this repository
+2. Make it your own
+3. Start creating!
+
+## 🌈 Contribute
+Feel free to:
+- Fork this repository
+- Create your feature branch
+- Submit pull requests
+- Share your ideas!
+
+## 📫 Connect
+Have questions or ideas? Open an issue or start a discussion!
+
+---
+*"Every expert was once a beginner. Start your journey today!"* 🌠
+
+⭐️ Don't forget to star this repo if you find it helpful!
